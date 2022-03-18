@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box ;
+   
+   
+}
+body{
+    background-image: url("image/10.jpg");
+   background-repeat: no-repeat;
+   background-origin: border-box;
+   background-clip: content-box;
+   background-size: cover;
+   color: white;
+}
+.ulstyle{
+   
+    margin-right: 10%;
+    font-size: 19px;
+    font-weight: 700;
+    color: rgb(253, 253, 82);
+}
+.logo{
+    margin-left: 3%;
+    width: 80px;
+    height: 50px;
+}
+.slider{
+    width: 100%;
+    height: 400px;
+}
+
+.slideimage{
+height: 400px;
+color: white;
+background-repeat: none;
+background-size:100% 400px;
+}
+.linklist{
+   text-decoration: none;
+}
